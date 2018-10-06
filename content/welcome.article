@@ -116,5 +116,5 @@ Haz click en el [[javascript:highlightAndClick(".next-page")]["next"]] botón o 
 
 Has terminado el primer módulodel tour!
 
-Ahora haz click en [[javascript:highlightAndClick(".logo")][A Tour of Go]] pasafra encontrar que más
+Ahora haz click en [[javascript:highlightAndClick(".logo")][A Tour of Go]] para encontrar que más
 puedes aprender sobre Go, o bien puedes ir directamente a la [[javascript:click('.next-page')][lección siguiente]].
